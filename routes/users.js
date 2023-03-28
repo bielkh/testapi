@@ -73,3 +73,5 @@ export const deleteUser = (req, res) => {
         return res.status(200).json("usuario deletado com sucesso")
     });
 };
+
+export default users
