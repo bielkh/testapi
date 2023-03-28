@@ -74,4 +74,4 @@ export const deleteUser = (req, res) => {
     });
 };
 
-export default users
+export default getUsers
